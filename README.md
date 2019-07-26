@@ -1,8 +1,2 @@
 # asdfghjkl
-qwertyuiop
-dsadsacsac
-sac
-asd
-as
-c
-xzczxxc
+Xin chào! Đây là phần nhánh
